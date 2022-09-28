@@ -1,6 +1,7 @@
 <table>
   <tr>
     <td>
+      <span>Hi, I'm Duy! </span>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; Studying Computer Sience at <a href="https://www.tlu.edu.vn/">TLU</a></li>
